@@ -1,8 +1,8 @@
 # 3bit Trinary Alphabet
 
-Upon recieving a programmable 3 key keyboard I decided that I would like to be able to turn it into a full keyboard. With a binary counting system I knew that I would need to have at least 5bit. As I had 3 keys, I decided that making an unconventional trinary system with 0, 1 and 2 would be my route. Having a trinary counting system increased my options maximum differences greatly. Making the system 3 bit meant that the total number of options would be 27, as there are 26 letter in the basic latin alhpabet, this left 1 option left to add a SPACE. I decided to set 000 to be the space and then count from 001, 002, , 010, 011..etc assigning the letters of the alphabet to each number in order. Below is what I came up with:
+Upon recieving a programmable 3 key keyboard I decided that I would like to be able to turn it into a full keyboard. With a binary counting system I knew that I would need to have at least 5bit. As I had 3 keys, I decided that making an unconventional trinary system with 0, 1 and 2 would be my route. Having a trinary counting system increased my options maximum differences greatly. Making the system 3 bit meant that the total number of options would be 27, as there are 26 letter in the basic latin alphabet, this left 1 option left to add a SPACE. I decided to set 000 to be the space and then count from 001, 002, , 010, 011..etc assigning the letters of the alphabet to each number in order. Below is what I came up with:
 
-| 3bit |  latin |
+| 3bit |  Latin |
 |------|:-------|
 | 000  |  SPACE | 
 | 001  |  a     |
